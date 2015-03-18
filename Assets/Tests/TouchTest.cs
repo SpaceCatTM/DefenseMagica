@@ -13,11 +13,7 @@ public class TouchTest : MonoBehaviour {
 	
 	}
 
-	void OnTouchBegin (Touch touch) {
-		Debug.Log ("OnTouchBegin");
-	}
-
-	void OnTouchMoved (Touch touch) {
-		Debug.Log ("OnTouchMoved");
+	void OnTouchEvent (Touch touch) {
+		Debug.Log ("OnTouchEvent");
 	}
 }

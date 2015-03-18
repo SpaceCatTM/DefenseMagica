@@ -14,27 +14,7 @@ public class TouchDispatcher : MonoBehaviour {
 			GameObject touchObject = GetTouchObject(touch);
 
 			if (touchObject != null) {
-				switch (touch.phase) {
-					case TouchPhase.Began:
-						touchObject.SendMessage ("OnTouchBegin", touch, SendMessageOptions.DontRequireReceiver);
-						break;
-
-					case TouchPhase.Canceled:
-						touchObject.SendMessage ("OnTouchCancaled", touch, SendMessageOptions.DontRequireReceiver);
-						break;
-
-					case TouchPhase.Ended:
-						touchObject.SendMessage ("OnTouchEnded", touch, SendMessageOptions.DontRequireReceiver);
-						break;
-
-					case TouchPhase.Moved:
-						touchObject.SendMessage ("OnTouchMoved", touch, SendMessageOptions.DontRequireReceiver);
-						break;
-
-					case TouchPhase.Stationary:
-						touchObject.SendMessage ("OnTouchStationary", touch, SendMessageOptions.DontRequireReceiver);
-						break;
-				}
+				touchObject.SendMessage ("OnTouchEvent", touch, SendMessageOptions.DontRequireReceiver);
 			}
 		}
 	}

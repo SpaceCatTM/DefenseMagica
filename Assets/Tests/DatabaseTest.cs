@@ -4,6 +4,7 @@ using System;
 using System.Collections;
 using System.IO;
 
+using Mono.Data;
 using Mono.Data.Sqlite;
 
 public class DatabaseTest : MonoBehaviour {

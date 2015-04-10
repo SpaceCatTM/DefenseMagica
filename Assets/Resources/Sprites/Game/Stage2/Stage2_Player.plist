@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>2_Wizard_AT_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {131, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{131, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {131, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_AT_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {105, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -1}</string>
+			<key>spriteSize</key>
+			<string>{105, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{133, 0}, {105, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_AT_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {125, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -2}</string>
+			<key>spriteSize</key>
+			<string>{125, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 0}, {125, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DD_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 18}, {76, 103}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, 3}</string>
+			<key>spriteSize</key>
+			<string>{76, 103}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{367, 0}, {76, 103}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DD_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 10}, {78, 111}}</string>
+			<key>spriteOffset</key>
+			<string>{-36, 7}</string>
+			<key>spriteSize</key>
+			<string>{78, 111}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{445, 0}, {78, 111}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DD_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {78, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, 8}</string>
+			<key>spriteSize</key>
+			<string>{78, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{525, 0}, {78, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DD_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {78, 127}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, 9}</string>
+			<key>spriteSize</key>
+			<string>{78, 127}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{605, 0}, {78, 127}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DD_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 69}, {78, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -26}</string>
+			<key>spriteSize</key>
+			<string>{78, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 0}, {78, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DM_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 8}, {56, 133}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, 18}</string>
+			<key>spriteSize</key>
+			<string>{56, 133}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 185}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{765, 0}, {56, 133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DM_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 17}, {178, 151}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -0}</string>
+			<key>spriteSize</key>
+			<string>{178, 151}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 185}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{823, 0}, {178, 151}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_DM_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 17}, {178, 153}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -1}</string>
+			<key>spriteSize</key>
+			<string>{178, 153}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 185}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 153}, {178, 153}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_NM_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {61, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -1}</string>
+			<key>spriteSize</key>
+			<string>{61, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 153}, {61, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_NM_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {61, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -0}</string>
+			<key>spriteSize</key>
+			<string>{61, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{243, 153}, {61, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_NM_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {61, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, 1}</string>
+			<key>spriteSize</key>
+			<string>{61, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 153}, {61, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_NM_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {61, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -0}</string>
+			<key>spriteSize</key>
+			<string>{61, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{369, 153}, {61, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_OV_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 40}, {109, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -20}</string>
+			<key>spriteSize</key>
+			<string>{109, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 153}, {109, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_OV_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 42}, {109, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -21}</string>
+			<key>spriteSize</key>
+			<string>{109, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{543, 153}, {109, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_OV_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 40}, {109, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -20}</string>
+			<key>spriteSize</key>
+			<string>{109, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{135, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{654, 153}, {109, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_WIN_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 72}, {86, 73}}</string>
+			<key>spriteOffset</key>
+			<string>{-19, -18}</string>
+			<key>spriteSize</key>
+			<string>{86, 73}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{765, 153}, {86, 73}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_WIN_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 72}, {84, 73}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -18}</string>
+			<key>spriteSize</key>
+			<string>{84, 73}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{853, 153}, {84, 73}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_WIN_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 9}, {96, 133}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 15}</string>
+			<key>spriteSize</key>
+			<string>{96, 133}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 308}, {96, 133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_WIN_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {96, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 20}</string>
+			<key>spriteSize</key>
+			<string>{96, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 308}, {96, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>2_Wizard_WIN_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 9}, {96, 133}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 15}</string>
+			<key>spriteSize</key>
+			<string>{96, 133}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 308}, {96, 133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5 GM</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

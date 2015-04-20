@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>pent_r_00.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 21}, {174, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -8}</string>
+			<key>spriteSize</key>
+			<string>{174, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {174, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 21}, {174, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -8}</string>
+			<key>spriteSize</key>
+			<string>{174, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{176, 0}, {174, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 21}, {178, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -8}</string>
+			<key>spriteSize</key>
+			<string>{178, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{352, 0}, {178, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 20}, {180, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -7}</string>
+			<key>spriteSize</key>
+			<string>{180, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{532, 0}, {180, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 20}, {180, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -6}</string>
+			<key>spriteSize</key>
+			<string>{180, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{714, 0}, {180, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 19}, {182, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -5}</string>
+			<key>spriteSize</key>
+			<string>{182, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 104}, {182, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 18}, {184, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -4}</string>
+			<key>spriteSize</key>
+			<string>{184, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 104}, {184, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 17}, {184, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -2}</string>
+			<key>spriteSize</key>
+			<string>{184, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 104}, {184, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 15}, {186, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -0}</string>
+			<key>spriteSize</key>
+			<string>{186, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{556, 104}, {186, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 14}, {188, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 2}</string>
+			<key>spriteSize</key>
+			<string>{188, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 104}, {188, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 12}, {190, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 4}</string>
+			<key>spriteSize</key>
+			<string>{190, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 206}, {190, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 12}, {192, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 4}</string>
+			<key>spriteSize</key>
+			<string>{192, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 206}, {192, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 11}, {192, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 5}</string>
+			<key>spriteSize</key>
+			<string>{192, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{386, 206}, {192, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {194, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 6}</string>
+			<key>spriteSize</key>
+			<string>{194, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{580, 206}, {194, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 10}, {196, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 6}</string>
+			<key>spriteSize</key>
+			<string>{196, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{776, 206}, {196, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 10}, {198, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSize</key>
+			<string>{198, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 304}, {198, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 10}, {198, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 6}</string>
+			<key>spriteSize</key>
+			<string>{198, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{200, 304}, {198, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {196, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 6}</string>
+			<key>spriteSize</key>
+			<string>{196, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{400, 304}, {196, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 11}, {192, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 5}</string>
+			<key>spriteSize</key>
+			<string>{192, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{598, 304}, {192, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 11}, {192, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 5}</string>
+			<key>spriteSize</key>
+			<string>{192, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{792, 304}, {192, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 12}, {190, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 4}</string>
+			<key>spriteSize</key>
+			<string>{190, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 402}, {190, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 13}, {188, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 3}</string>
+			<key>spriteSize</key>
+			<string>{188, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 402}, {188, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 15}, {186, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -0}</string>
+			<key>spriteSize</key>
+			<string>{186, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 402}, {186, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 16}, {184, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -2}</string>
+			<key>spriteSize</key>
+			<string>{184, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{570, 402}, {184, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 18}, {184, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -4}</string>
+			<key>spriteSize</key>
+			<string>{184, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{756, 402}, {184, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {182, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -5}</string>
+			<key>spriteSize</key>
+			<string>{182, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 504}, {182, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 20}, {180, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -6}</string>
+			<key>spriteSize</key>
+			<string>{180, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 504}, {180, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 20}, {178, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -7}</string>
+			<key>spriteSize</key>
+			<string>{178, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{366, 504}, {178, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 21}, {178, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -8}</string>
+			<key>spriteSize</key>
+			<string>{178, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{546, 504}, {178, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pent_r_29.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 22}, {176, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -9}</string>
+			<key>spriteSize</key>
+			<string>{176, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{726, 504}, {176, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5 GM</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
